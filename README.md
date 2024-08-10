@@ -1,9 +1,6 @@
 ---
 marp: true
-style: |
-  h1 {
-    color: black;
-  }
+
 ---
 
 # Livro de receitas 👨‍🍳
