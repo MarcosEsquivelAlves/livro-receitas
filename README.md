@@ -1,7 +1,4 @@
----
-marp: true
 
----
 
 # Livro de receitas 👨‍🍳
 
